@@ -1,1 +1,4 @@
+#! usr/bin/env node
 
+// Create package on pi
+var package = require("");
